@@ -2,14 +2,23 @@
 ***Checklist for the "Log In" field***
 
 **1. Smoke Testing**
+
 1.1. Entering correct data in the fields "Mobile number or email", "Password".
+
 **2. Critical-Path Testing**
+
 2.1. Invalid data entry:
+
                  2.1.1 Entering data for a non-existing user
+                 
                  2.2.2 Arabic numerals.
+                 
                  2.2.3 Roman numerals.
+                 
                  2.2.4 Entering Illegal Data.
+                 
                  2.2.5 Special characters (“>’. <\:. *; +.).
+                 
 2.2. The site's reaction to filling in the fields:
                  2.2.1. Empty
                  2.2.2. Maximum number of characters
