@@ -1,5 +1,6 @@
 # Chek-list-for-fasebook.com
 ***Checklist for the "Log In" field***
+
 **1. Smoke Testing**
 1.1. Entering correct data in the fields "Mobile number or email", "Password".
 **2. Critical-Path Testing**
