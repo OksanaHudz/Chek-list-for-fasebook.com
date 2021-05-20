@@ -80,6 +80,9 @@
 4.10 Form response to enabled / disabled JavaScript.	
 
 
+
+
+
 ***Checklist for the "Sign Up" field***
 
 **1. Smoke Testing**
@@ -227,6 +230,9 @@
 4.7 Ability to return to the previous step.
 
 4.8 Field response to enabled / disabled JavaScript
+
+
+
 
 
 ***Checklist for the "Forget Password?"***
